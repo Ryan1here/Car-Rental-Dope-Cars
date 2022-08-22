@@ -1,0 +1,8 @@
+@font-face {
+  font-family: name;
+  src: url(./Assets/fonts/BerlianaLovely-Regular\ 400.otf);
+}
+
+h1 {
+  font-family: name;
+}
